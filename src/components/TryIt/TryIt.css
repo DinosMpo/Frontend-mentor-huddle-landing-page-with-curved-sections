@@ -1,0 +1,22 @@
+#try-it {
+	display: inline-block;
+	padding: 10px;
+	border-radius: 30px;
+	width: 120px;
+	border: 1px solid hsl(322, 100%, 66%);
+	color: hsl(322, 100%, 66%);
+	cursor: pointer;
+}
+
+#try-it:hover {
+	color: hsl(321, 100%, 78%);
+	border: 1px solid hsl(321, 100%, 78%);
+}
+
+@media only screen and (max-width: 600px) {
+	#try-it {
+		width: 80px;
+		padding: 5px;
+		font-size: 10px;
+	}
+}
