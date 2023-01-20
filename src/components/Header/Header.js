@@ -7,7 +7,7 @@ export default function Header() {
 		<header>
 			<main>
 				<div>
-					<img src="/images/logo.svg" alt="icon message" />
+					<img src="images/logo.svg" alt="icon message" />
 				</div>
 			</main>
 			<TryIt />
