@@ -1,6 +1,7 @@
 {
   "name": "huddle-landing-page-with-curved-sections",
   "version": "0.1.0",
+  "homepage": "https://dinosmpo.github.io/Frontend-mentor-huddle-landing-page-with-curved-sections/",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
@@ -14,7 +15,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
