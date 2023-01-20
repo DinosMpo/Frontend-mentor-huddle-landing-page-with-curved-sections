@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Frontend-mentor-huddle-landing-page-with-curved-sections/static/css/main.ce9375e2.css",
+    "main.js": "/Frontend-mentor-huddle-landing-page-with-curved-sections/static/js/main.d29ab6c4.js",
+    "index.html": "/Frontend-mentor-huddle-landing-page-with-curved-sections/index.html",
+    "main.ce9375e2.css.map": "/Frontend-mentor-huddle-landing-page-with-curved-sections/static/css/main.ce9375e2.css.map",
+    "main.d29ab6c4.js.map": "/Frontend-mentor-huddle-landing-page-with-curved-sections/static/js/main.d29ab6c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce9375e2.css",
+    "static/js/main.d29ab6c4.js"
+  ]
+}
